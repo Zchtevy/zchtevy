@@ -3,6 +3,7 @@
 - Technology
 
   - [Devcontainer](/tech/devcontainer.md)
+  - [Fish Shell](/tech/fish.md)
 
 - Philisophy
 
